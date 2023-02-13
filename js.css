@@ -16,7 +16,7 @@ body{
     height: 100vh;
     background-size: cover;
     background-position: center;  
-    background-image: url(mainbg.jpg); 
+    background-image: url(/pictures/mainbg.jpg); 
 }
 .container{
     padding: 10px 10%;
